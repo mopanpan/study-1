@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /avatar.png
+heroImage: /timg.jpg
 actionText: Let`s Go →
 actionLink: /zh/standard/Start.html
 sidebarDepth: 2
@@ -12,7 +12,7 @@ footer: MIT Licensed | Copyright © 1970-present Jasonandjay
   <Bit/>
 </div>
 
-<div class="features">
+<!-- <div class="features">
   <div class="feature">
     <h2>勤于总结</h2>
     <p>不断总结过去的知识点。</p>
@@ -25,9 +25,9 @@ footer: MIT Licensed | Copyright © 1970-present Jasonandjay
     <h2>终于实践</h2>
     <p>不断在项目中锤炼知识点。</p>
   </div>
-</div>
+</div> -->
 
-### 起步就像数 1, 2, 3 一样容易
+<!-- ### 起步就像数 1, 2, 3 一样容易
 
 ``` bash
 # 安装
@@ -45,4 +45,4 @@ vuepress build
 
 ::: warning 兼容性注意事项
 VuePress 要求 Node.js >= 8。
-:::
+::: -->
