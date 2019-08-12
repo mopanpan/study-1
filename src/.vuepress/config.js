@@ -44,7 +44,7 @@ module.exports = {
             link: '/zh/standard/Start.md'
           },
           {
-            text: '我的',
+            text: '我的博客',
             link: '/zh/standard/Wode.md'
           },
           {
@@ -89,21 +89,21 @@ module.exports = {
               { text: 'TouTiao', link: '/zh/interface/TouTiao.md'}
             ]
           },
-          // {
-          //   text: '语言',
-          //   items: [
-          //     { text: 'Chinese', link: '/language/chinese' },
-          //     { text: 'Japanese', link: '/language/japanese' }
-          //   ]
-          // },
-          // {
-          //   text: '配置参考',
-          //   link: '/config/'
-          // },
-          // {
-          //   text: '默认主题配置',
-          //   link: '/default-theme-config/'
-          // }
+          {
+            text: '语言',
+            items: [
+              { text: 'Chinese', link: '/language/chinese' },
+              { text: 'Japanese', link: '/language/japanese' }
+            ]
+          },
+          {
+            text: '配置参考',
+            link: '/config/'
+          },
+          {
+            text: '默认主题配置',
+            link: '/default-theme-config/'
+          }
         ],
         sidebar: {
           '/guide/': genSidebarConfig('指南'),
